@@ -1,0 +1,11 @@
+[package]
+name = "docker-bug-value-too-long"
+version = "0.1.0"
+authors = ["Jérémie Drouet <jeremie.drouet@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-http = "2.0.0"
+actix-web = "3.0.2"
